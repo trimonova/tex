@@ -1,0 +1,261 @@
+%
+% 
+%
+
+\documentclass[a4paper, 12pt]{article}
+
+\usepackage[14pt]{extsizes}
+
+\usepackage{tabto}
+
+\usepackage{amsmath, amssymb}
+\usepackage{amsthm}
+\usepackage{cmap}
+\usepackage{rotating}
+\usepackage{framed}
+
+\usepackage[utf8]{inputenc}
+\usepackage[russian]{babel}
+\usepackage[pdftex,unicode]{hyperref}
+\usepackage[left=2cm,right=2cm,top=2cm,bottom=3cm,bindingoffset=0cm]{geometry}
+\usepackage{indentfirst}
+\usepackage{epsfig}
+
+\def\n{{\mathbf n}}
+
+%\usepackage{showkeys}
+
+\usepackage{tocvsec2}
+
+\usepackage{ccaption}
+  % заменяем для рисунков ‘:’ после номера рисунка на ‘.’
+  \captiondelim{. }
+
+\usepackage{cite}
+
+% Для описания алгоритмов:
+\usepackage{algorithm}
+% % Переопределим название на русском:
+\floatname{algorithm}{Алгоритм}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% ---
+% Commands and operators
+\newcommand{\tpr}{\mathbf{\otimes}}   % tensor product
+\newcommand{\dpr}{\mathbf{\cdot}}     % dot product
+\newcommand{\cpr}{\mathbf{\times}}    % cross product
+\newcommand{\sm}{\mathbf{:}}          % оператор свертки TODO: Сделать его оператором!
+
+
+\newcommand{\tn}[1]{\mathbf{#1}}      % bold for tensor values
+\newcommand{\vc}[1]{\mathbf{#1}}      % bold for vector values
+
+\newcommand{\tnt}{{\tn{T}}}      % bold for tensor T
+
+\newcommand{\vcx}{{\vc{x}}}      % bold for vector x
+\newcommand{\vcn}{{\vc{n}}}      % bold for vector n
+\newcommand{\vce}{{\vc{e}}}      % bold for vector e
+
+\newcommand{\vct}{{\vc{t}}}      % bold for vector t
+\newcommand{\vcu}{{\vc{u}}}      % bold for vector u
+
+\newcommand{\mcA}{{\mathcal{A}}}      % bold for vector u
+
+\def\dfdx#1#2{\frac{\partial #1}{\partial #2}}
+\def\sr#1{\left<#1\right>}
+\def\s{\mathbf s{}}
+\def\erf{{\rm erf}}
+
+\DeclareMathOperator*{\const}{{const}}
+\DeclareMathOperator*{\Rn}{{Re}}            % Reynolds number
+
+\renewcommand{\Re}{{\mathrm{Re}}}
+\renewcommand{\Im}{{\mathrm{Im}}}
+
+\DeclareMathOperator*{\dev}{{dev}}
+\DeclareMathOperator*{\eff}{{eff}}
+\DeclareMathOperator*{\rank}{{rank}}
+
+\DeclareMathOperator{\spn}{{span}}
+
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Commands
+\newcommand{\mcS}{{\mathcal{S}}}
+\newcommand{\mcF}{{\mathcal{F}}}
+\newcommand{\pmcF}{{\partial\mathcal{F}}}
+
+\newcommand{\mcI}{{\mathcal{I}}}
+
+\DeclareMathOperator{\dist}{{dist}}
+\DeclareMathOperator{\argmin}{{arg\,min}}
+\DeclareMathOperator{\sgnd}{{sign\,dist}}
+\DeclareMathOperator{\sign}{sign}
+\DeclareMathOperator{\tr}{tr}
+\DeclareMathOperator{\diam}{diam}
+\DeclareMathOperator{\diag}{diag}
+
+\DeclareMathOperator{\supp}{{supp}}
+
+\newcommand{\dudx}[2]{\frac{\partial{#1}}{\partial{#2}}}
+
+\newcommand{\la}{\langle}
+\newcommand{\ra}{\rangle}
+
+\newcommand{\mmm}{\text{м}$^3$}
+
+% Жирное начертание для некоторых латинских букв в формулах
+% Жирным начертанием обозначаются вектора
+\newcommand{\bX}{ {\mathbf{x}}  }
+\newcommand{\bx}{ {\mathbf{x}}  }
+\newcommand{\bM}{ {\mathbf{M}}  }
+\newcommand{\bF}{ {\mathbf{F}}  }
+\newcommand{\bJ}{ {\mathbf{J}}  }
+
+\newcommand{\prt}{ {\partial}  }
+
+\newcommand{\No}{\textnumero}
+
+\setcounter{tocdepth}{1}
+
+\sloppy
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{titlepage}
+
+\begin{center}
+РОССИЙСКАЯ АКАДЕМИЯ НАУК \\
+ОРДЕНА ЛЕНИНА \\
+ИНСТИТУТ ПРИКЛАДНОЙ МАТЕМАТИКИ \\
+имени М. В. КЕЛДЫША
+
+\vspace*{60mm}
+
+\large{В.Е.~Борисов, А.В.~Иванов, Б.В.~Критский,\\
+И.С.~Меньшов, Е.Б.~Савенков
+}
+
+\vspace*{20mm}
+
+\textbf{\Large
+Численное моделирование задач
+пороупругости
+}
+
+\vspace*{110mm}
+
+\Large{Москва, 2017}
+
+\vspace*{-50mm}
+
+\end{center}
+
+\end{titlepage}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\setcounter{page}{2}
+
+\thispagestyle{empty}
+
+\noindent\emph{ В.Е.~Борисов, А.В.~Иванов, Б.В.~Критский,
+И.С.~Меньшов, Е.Б.~Савенков} Численное моделирование задач
+пороупругости
+
+\vspace*{5mm}
+
+\noindent\textbf{ Аннотация.}
+%
+В работе подробно описывается математическая постановка линейной
+задачи пороупругости. Рассматривается случай неизотермической среды.
+Приведены основные уравнения модели и ее определяющие соотношения для
+линейного случая малых деформаций. Рассматривается алгоритм решения
+задачи на основе метода конечных элементов. Приведены результаты
+численных расчетов.
+\footnote{Работа выполнена при финансовой поддержке Российского Научного Фонда~(проект~\No~15-11-00021)}
+
+\vspace*{3mm}
+
+\noindent\textbf{Ключевые слова:} геомеханика, пороупругая среда, МКЭ
+
+\vspace*{6mm}
+
+\noindent\emph{ V.E.~Borisov, \; A.V.~Ivanov, \; B.V.~Kritsky, \; I.S.~Men'shov, \; E.B.~Savenkov} \\Numerical simulation of poroelasticity problems
+
+\vspace*{3mm}
+
+\noindent\textbf{ Abstract.}
+In this work a mathematical problem statement for poroelasticity is
+presented in details. The nonisothermal case is considered.
+Equations of the model are described as well as constitutive relations
+for the case of small strains. A finite element method for the
+solution of the problem is reviewed. Results of the numerical
+simulations for a number of common test problems are presented.
+
+%The work was supported by Russian Scientific Foundation, project No.~15-11-00021.
+
+
+\vspace*{3mm}
+
+\noindent\textbf{Key words and phrases:} geomechanics, poroelastic medium, FEM
+
+\tableofcontents
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newpage
+
+% Введение
+\section{Введение}
+\label{sec:intro}
+\input{intro.tex}
+
+% Краткое описание математической модели
+\section{Математическая модель}
+\label{sec:mat_model}
+%
+\input{matmodel.tex}
+
+\section{Методы решения}
+\label{sec:methods}
+%
+\input{methods.tex}
+
+\section{Эксперимент}
+\label{sec:experiment}
+%
+\input{experiment.tex}
+
+\section{Результаты расчетов}
+\label{sec:results}
+%
+\input{problem.tex}
+
+\newpage
+% Заключение
+\section{Заключение}
+\label{sec:finish}
+%
+\input{finish.tex}
+
+%\newpage
+% Список обозначений
+%\section*{Список обозначений}
+%\addcontentsline{toc}{section}{Список обозначений}
+%\label{sec:result}
+%\input{desc.tex}
+
+
+% Литература
+%
+\input{references.tex}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\newpage
+
+%%%%%%%%
+\end{document}
+% EOF
