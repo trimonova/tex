@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.8.8)  9 AUG 2018 14:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.8.8)  14 AUG 2018 12:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -869,4 +869,1243 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count118
 \float@exts=\toks30
 \float@box=\box29
-\@float@ev
+\@float@everytoks=\toks31
+\@floatcapt=\box30
+)
+\@float@every@algorithm=\toks32
+\c@algorithm=\count119
+)
+(./preprint_poro_Trimonova.aux
+LaTeX Font Info:    Try loading font information for T2A+cmr on input line 21.
+
+(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmr.fd
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)<<t2a.cmap>>)
+\openout1 = `preprint_poro_Trimonova.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count120
+\scratchdimen=\dimen134
+\scratchbox=\box31
+\nofMPsegments=\count121
+\nofMParguments=\count122
+\everyMPshowfont=\toks33
+\MPscratchCnt=\count123
+\MPscratchDim=\dimen135
+\MPnumerator=\count124
+\makeMPintoPDFobject=\count125
+\everyMPtoPDFconversion=\toks34
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\AtBeginShipoutBox=\box32
+Package hyperref Info: Link coloring OFF on input line 122.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count126
+)
+LaTeX Info: Redefining \ref on input line 122.
+LaTeX Info: Redefining \pageref on input line 122.
+LaTeX Info: Redefining \nameref on input line 122.
+
+(./preprint_poro_Trimonova.out) (./preprint_poro_Trimonova.out)
+\@outlinefile=\write3
+\openout3 = `preprint_poro_Trimonova.out'.
+
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 702.78308pt, 85.35826pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=702.78308pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-54.36449pt
+* \headheight=14.0pt
+* \headsep=25.0pt
+* \topskip=14.0pt
+* \footskip=30.0pt
+* \marginparwidth=15.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=12.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 154.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 154.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 154.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 154.
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]<<ot1.cmap>><<oml.cmap>><<o
+ms.cmap>><<omx.cmap>>
+LaTeX Font Info:    Try loading font information for U+msa on input line 175.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 175.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(./preprint_poro_Trimonova.toc
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 31.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 31.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 31.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 31.
+ [2])
+\tf@toc=\write4
+\openout4 = `preprint_poro_Trimonova.toc'.
+
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 206.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 206.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 206.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 206.
+ [3]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 209.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 209.
+ (./intro.tex
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 66.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 66.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 66.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 66.
+ [4])
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 214.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 214.
+ (./matmodel.tex
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 78.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 78.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 99.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 99.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 99.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 99.
+
+[5]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 189.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 189.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 193.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 193.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 193.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 193.
+ [6]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 197.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 197.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 290.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 290.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 290.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 290.
+ [7]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 292.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 292.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 350.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 350.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 385.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 385.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 385.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 385.
+ [8]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 411.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 411.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 449.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 449.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 455.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 455.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 455.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 455.
+ [9]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 476.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 476.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 542.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 542.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 542.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 542.
+ [10])
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 219.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 219.
+ (./methods.tex
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 55.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 55.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 55.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 55.
+ [11]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 63.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 63.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 98.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 98.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 98.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 98.
+ [12]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 188.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 188.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 209.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 209.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 209.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 209.
+ [13]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 291.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 291.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 291.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 291.
+ [14]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 331.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <14.4> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 331.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 368.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 368.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 368.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 368.
+ [15])
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 224.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 224.
+
+(./experiment.tex
+Underfull \hbox (badness 1297) in paragraph at lines 1--2
+[]\T2A/cmr/m/n/14.4 В на-сто-я-щем раз-де-ле опи-сы-ва-ет-ся ла-бо-ра-тор-ная у
+ста-нов-ка, на экс-
+ []
+
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 3.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 3.
+<figs/picts/1.png, id=324, 469.4265pt x 298.6065pt>
+File: figs/picts/1.png Graphic file (type png)
+ <use figs/picts/1.png>
+Package pdftex.def Info: figs/picts/1.png used on input line 8.
+(pdftex.def)             Requested size: 241.84843pt x 153.84102pt.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 14.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 14.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 14.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 14.
+
+[16pdfTeX warning (ext4): destination with the same identifier (name{figure.1})
+ has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.14 
+      <./figs/picts/1.png>]
+<figs/picts/2.png, id=334, 374.39874pt x 292.09125pt>
+File: figs/picts/2.png Graphic file (type png)
+ <use figs/picts/2.png>
+Package pdftex.def Info: figs/picts/2.png used on input line 18.
+(pdftex.def)             Requested size: 218.831pt x 170.71652pt.
+
+<figs/picts/3.png, id=335, 233.1912pt x 204.2832pt>
+File: figs/picts/3.png Graphic file (type png)
+ <use figs/picts/3.png>
+Package pdftex.def Info: figs/picts/3.png used on input line 19.
+(pdftex.def)             Requested size: 194.87584pt x 170.71652pt.
+
+<figs/picts/4.png, id=339, 312.2064pt x 387.00584pt>
+File: figs/picts/4.png Graphic file (type png)
+ <use figs/picts/4.png>
+Package pdftex.def Info: figs/picts/4.png used on input line 31.
+(pdftex.def)             Requested size: 193.47578pt x 239.82893pt.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 37.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 37.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 37.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 37.
+
+[17pdfTeX warning (ext4): destination with the same identifier (name{figure.2})
+ has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.37 
+      <./figs/picts/2.png> <./figs/picts/3.png>]
+<figs/picts/5.png, id=348, 271.998pt x 339.3405pt>
+File: figs/picts/5.png Graphic file (type png)
+ <use figs/picts/5.png>
+Package pdftex.def Info: figs/picts/5.png used on input line 40.
+(pdftex.def)             Requested size: 241.84843pt x 301.73766pt.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 51.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 51.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 54.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 54.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 54.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 54.
+
+[18]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 67.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 67.
+
+
+LaTeX Warning: Command \CYRP invalid in math mode on input line 71.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 71.
+
+Missing character: There is no П in font cmr12!
+Missing character: There is no а in font cmr12!
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 72.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 72.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 72.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 72.
+[19] <figs/picts/6.png, id=365, 630.9171pt x 473.3685pt>
+File: figs/picts/6.png Graphic file (type png)
+
+<use figs/picts/6.png>
+Package pdftex.def Info: figs/picts/6.png used on input line 75.
+(pdftex.def)             Requested size: 241.84843pt x 181.45651pt.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 80.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 80.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 81.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 81.
+ <figs/picts/7.PNG, id=367, 502.12593pt x 317.68687pt>
+File: figs/picts/7.PNG Graphic file (type png)
+
+<use figs/picts/7.PNG>
+Package pdftex.def Info: figs/picts/7.PNG used on input line 87.
+(pdftex.def)             Requested size: 193.47578pt x 122.40918pt.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 97.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 97.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 97.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 97.
+ [20]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 98.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 98.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 104.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 104.
+)
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 229.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 229.
+ (./problem.tex
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 24.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 24.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 24.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 24.
+ [21]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 41.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 41.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 41.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 41.
+ [22]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 43.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 43.
+
+<./figs/immdot.png, id=390, 118.64325pt x 111.89806pt>
+File: ./figs/immdot.png Graphic file (type png)
+ <use ./figs/immdot.png>
+Package pdftex.def Info: ./figs/immdot.png used on input line 103.
+(pdftex.def)             Requested size: 217.66211pt x 205.29047pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 143.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 143.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 143.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 143.
+[23pdfTeX warning (ext4): destination with the same identifier (name{table.1}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.143 \end{equation}
+                    ]
+<figs/press_point_mom2.png, id=402, 1103.5629pt x 703.428pt>
+File: figs/press_point_mom2.png Graphic file (type png)
+
+<use figs/press_point_mom2.png>
+Package pdftex.def Info: figs/press_point_mom2.png used on input line 154.
+(pdftex.def)             Requested size: 386.95897pt x 246.6543pt.
+
+<figs/disp_point_mom2.png, id=403, 1145.2386pt x 703.428pt>
+File: figs/disp_point_mom2.png Graphic file (type png)
+
+<use figs/disp_point_mom2.png>
+Package pdftex.def Info: figs/disp_point_mom2.png used on input line 155.
+(pdftex.def)             Requested size: 386.95897pt x 237.68114pt.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 172.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 172.
+
+Underfull \hbox (badness 10000) in paragraph at lines 184--185
+[]\T2A/cmr/m/n/14.4 Аналитическое ре-ше-ние за-да-чи за-пи-сы-ва-ет-ся сле-ду-ю
+-щим об-ра-
+ []
+
+<./figs/immline.png, id=409, 158.39175pt x 96.48045pt>
+File: ./figs/immline.png Graphic file (type png)
+
+<use ./figs/immline.png>
+Package pdftex.def Info: ./figs/immline.png used on input line 218.
+(pdftex.def)             Requested size: 314.40001pt x 191.52798pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 251.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 251.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 251.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 251.
+[24] <figs/press_line_mom2.png, id=422, 1105.4901pt x 685.1196pt>
+File: figs/press_line_mom2.png Graphic file (type png)
+
+<use figs/press_line_mom2.png>
+Package pdftex.def Info: figs/press_line_mom2.png used on input line 265.
+(pdftex.def)             Requested size: 386.95897pt x 239.81636pt.
+
+<figs/disp_line_mom2.png, id=423, 1133.6754pt x 703.428pt>
+File: figs/disp_line_mom2.png Graphic file (type png)
+
+<use figs/disp_line_mom2.png>
+Package pdftex.def Info: figs/disp_line_mom2.png used on input line 266.
+(pdftex.def)             Requested size: 386.95897pt x 240.09616pt.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 282.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 282.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 319.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 319.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 319.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 319.
+ [25pdfTeX warning (ext4): destination with the same identifier (name{table.2})
+ has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.319 
+      ] <figs/press_const_line_source2.png, id=435, 1117.2942pt x 658.6206pt>
+File: figs/press_const_line_source2.png Graphic file (type png)
+
+<use figs/press_const_line_source2.png>
+Package pdftex.def Info: figs/press_const_line_source2.png used on input line 3
+22.
+(pdftex.def)             Requested size: 386.95897pt x 228.09868pt.
+
+<figs/disp_const_line_source2.png, id=436, 1140.1797pt x 694.7556pt>
+File: figs/disp_const_line_source2.png Graphic file (type png)
+
+<use figs/disp_const_line_source2.png>
+Package pdftex.def Info: figs/disp_const_line_source2.png used on input line 32
+3.
+(pdftex.def)             Requested size: 386.95897pt x 235.78973pt.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 338.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 338.
+
+<./figs/terzaghi.png, id=439, 120.6909pt x 224.037pt>
+File: ./figs/terzaghi.png Graphic file (type png)
+
+<use ./figs/terzaghi.png>
+Package pdftex.def Info: ./figs/terzaghi.png used on input line 357.
+(pdftex.def)             Requested size: 169.29684pt x 314.26839pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 414.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 414.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 414.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 414.
+[26] <./figs/pp0Ter.png, id=453, 1116.0897pt x 673.5564pt>
+File: ./figs/pp0Ter.png Graphic file (type png)
+
+<use ./figs/pp0Ter.png>
+Package pdftex.def Info: ./figs/pp0Ter.png used on input line 471.
+(pdftex.def)             Requested size: 435.32422pt x 262.71677pt.
+ <./figs/uu0Ter.png, id=454, 1056.8283pt x 703.428pt>
+File: ./figs/uu0Ter.png Graphic file (type png)
+
+<use ./figs/uu0Ter.png>
+Package pdftex.def Info: ./figs/uu0Ter.png used on input line 472.
+(pdftex.def)             Requested size: 435.32422pt x 289.74902pt.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 499.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 499.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 499.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 499.
+ [27pdfTeX warning (ext4): destination with the same identifier (name{table.3})
+ has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.499 
+      ] <./figs/pp1Ter.png, id=465, 726.0726pt x 622.2447pt>
+File: ./figs/pp1Ter.png Graphic file (type png)
+
+<use ./figs/pp1Ter.png>
+Package pdftex.def Info: ./figs/pp1Ter.png used on input line 502.
+(pdftex.def)             Requested size: 362.77264pt x 310.89372pt.
+ <./figs/uu1Ter.png, id=466, 726.0726pt x 622.2447pt>
+File: ./figs/uu1Ter.png Graphic file (type png)
+
+<use ./figs/uu1Ter.png>
+Package pdftex.def Info: ./figs/uu1Ter.png used on input line 503.
+(pdftex.def)             Requested size: 362.77264pt x 310.89372pt.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 517.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 517.
+ <./figs/mandel.png, id=469, 172.60484pt x 161.28255pt>
+File: ./figs/mandel.png Graphic file (type png)
+
+<use ./figs/mandel.png>
+Package pdftex.def Info: ./figs/mandel.png used on input line 536.
+(pdftex.def)             Requested size: 314.40001pt x 293.79306pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 570.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 570.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 570.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 570.
+[28]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 665.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 665.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 665.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 665.
+[29] <./figs/pp0M.png, id=499, 1095.8541pt x 655.248pt>
+File: ./figs/pp0M.png Graphic file (type png)
+ <use ./figs/pp0M.png>
+Package pdftex.def Info: ./figs/pp0M.png used on input line 682.
+(pdftex.def)             Requested size: 459.51054pt x 274.75237pt.
+
+<./figs/uux0M.png, id=500, 1149.8157pt x 684.156pt>
+File: ./figs/uux0M.png Graphic file (type png)
+ <use ./figs/uux0M.png>
+Package pdftex.def Info: ./figs/uux0M.png used on input line 690.
+(pdftex.def)             Requested size: 411.14528pt x 244.63611pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./figs/uuz0M.png, id=501, 1119.4623pt x 689.9376pt>
+File: ./figs/uuz0M.png Graphic file (type png)
+ <use ./figs/uuz0M.png>
+Package pdftex.def Info: ./figs/uuz0M.png used on input line 698.
+(pdftex.def)             Requested size: 411.14528pt x 253.38847pt.
+
+<./figs/prM.png, id=502, 1204.5pt x 1080.035pt>
+File: ./figs/prM.png Graphic file (type png)
+ <use ./figs/prM.png>
+Package pdftex.def Info: ./figs/prM.png used on input line 707.
+(pdftex.def)             Requested size: 353.09663pt x 316.6135pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 712.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 712.
+<./figs/2wells.png, id=505, 179.7114pt x 130.92915pt>
+File: ./figs/2wells.png Graphic file (type png)
+ <use ./figs/2wells.png>
+Package pdftex.def Info: ./figs/2wells.png used on input line 733.
+(pdftex.def)             Requested size: 314.40001pt x 229.08546pt.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 737.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 737.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 737.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 737.
+
+[30pdfTeX warning (ext4): destination with the same identifier (name{table.4}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.737 
+      ]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./figs/iso_p.png, id=514, 798.3426pt x 606.1044pt>
+File: ./figs/iso_p.png Graphic file (type png)
+ <use ./figs/iso_p.png>
+Package pdftex.def Info: ./figs/iso_p.png used on input line 769.
+(pdftex.def)             Requested size: 386.95897pt x 293.78456pt.
+
+<./figs/str.png, id=515, 669.9429pt x 488.5452pt>
+File: ./figs/str.png Graphic file (type png)
+ <use ./figs/str.png>
+Package pdftex.def Info: ./figs/str.png used on input line 770.
+(pdftex.def)             Requested size: 386.95897pt x 282.17859pt.
+)
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 234.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 234.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 234.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 234.
+
+[31pdfTeX warning (ext4): destination with the same identifier (name{table.5}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.234 \newpage
+              ]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 236.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 236.
+ (./finish.tex) (./references.tex
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 3.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 3.
+
+Underfull \hbox (badness 1824) in paragraph at lines 40--44
+\T2A/cmr/m/n/14.4 elements applied to elastoplasticity: I. Mixed displacement^^
+Upressure
+ []
+
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 53.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 53.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 53.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 53.
+[32]
+Underfull \hbox (badness 4886) in paragraph at lines 71--73
+[]\T2A/cmr/m/n/14.4 Kim J. Sequentual Methods for Coupled Geomechanics and
+ []
+
+
+Underfull \hbox (badness 3000) in paragraph at lines 80--81
+[]\T2A/cmr/m/n/14.4 Mandel J. Consolidation des sols (itude mathimatique) //
+ []
+
+
+Underfull \hbox (badness 2707) in paragraph at lines 107--111
+[]\T2A/cmr/m/n/14.4 Preisig M., Pr^^Avost J.H. Stabilization procedures in coup
+led
+ []
+
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 111.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 111.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 111.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 111.
+[33]
+Underfull \hbox (badness 1540) in paragraph at lines 121--125
+\T2A/cmr/m/n/14.4 Injection Well: Numerical and Laboratory Modeling. // Society
+ of
+ []
+
+
+Underfull \hbox (badness 1509) in paragraph at lines 127--130
+\T2A/cmr/m/n/14.4 Turuntaev S., Aigozhieva A. Estimation of the Hydraulic Fract
+ure
+ []
+
+
+Underfull \hbox (badness 1769) in paragraph at lines 127--130
+\T2A/cmr/m/n/14.4 Propagation Rate in the Laboratory Experiment. // Physical an
+d
+ []
+
+
+Underfull \hbox (badness 1584) in paragraph at lines 150--154
+\T2A/cmr/m/n/14.4 Efendiev, Lecture Notes in Applied and Computational Mechanic
+s,
+ []
+
+
+Underfull \hbox (badness 2293) in paragraph at lines 156--160
+[]\T2A/cmr/m/n/14.4 Xia K., Masud A. A stabilized finite element formulation fo
+r
+ []
+
+
+Underfull \hbox (badness 1845) in paragraph at lines 162--166
+[]\T2A/cmr/m/n/14.4 Zheng Y., Burridge R., Burns D. Reservoir Simulation with
+ []
+
+
+Underfull \hbox (badness 3333) in paragraph at lines 162--166
+\T2A/cmr/m/n/14.4 the Finite Element Method Using Biot Poroelastic Approach //
+ []
+
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 166.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 166.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 166.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 166.
+[34])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 260.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 260.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 260.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 260.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 260.
+ [35]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 260.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 260.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 260.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 260.
+ [36pdfTeX warning (ext4): destination with the same identifier (name{figure.3}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.260 \end{document}
+                    pdfTeX warning (ext4): destination with the same identifier
+ (name{figure.4}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.260 \end{document}
+                     <./figs/picts/4.png> <./figs/picts/5.png>]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 260.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 260.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 260.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 260.
+ [37pdfTeX warning (ext4): destination with the same identifier (name{figure.5}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.260 \end{document}
+                    pdfTeX warning (ext4): destination with the same identifier
+ (name{figure.6}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.260 \end{document}
+                    pdfTeX warning (ext4): destination with the same identifier
+ (name{figure.7}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.260 \end{document}
+                     <./figs/picts/6.png> <./figs/picts/7.PNG> <./figs/immdot.p
+ng>]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 260.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 260.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 260.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 260.
+ [38pdfTeX warning (ext4): destination with the same identifier (name{figure.8}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.260 \end{document}
+                     <./figs/press_point_mom2.png
+
+pdfTeX warning: /usr/bin/pdflatex (file ./figs/press_point_mom2.png): large int
+erlaced PNG might cause out of memory (use non-interlaced PNG to fix this)
+> <./figs/disp_point_mom2.png
+
+pdfTeX warning: /usr/bin/pdflatex (file ./figs/disp_point_mom2.png): large inte
+rlaced PNG might cause out of memory (use non-interlaced PNG to fix this)
+>]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 260.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 260.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 260.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 260.
+ [39pdfTeX warning (ext4): destination with the same identifier (name{figure.9}
+) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.260 \end{document}
+                     <./figs/immline.png>]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 260.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 260.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 260.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 260.
+ [40pdfTeX warning (ext4): destination with the same identifier (name{figure.10
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.260 \end{document}
+                     <./figs/press_line_mom2.png
+
+pdfTeX warning: /usr/bin/pdflatex (file ./figs/press_line_mom2.png): large inte
+rlaced PNG might cause out of memory (use non-interlaced PNG to fix this)
+> <./figs/disp_line_mom2.png
+
+pdfTeX warning: /usr/bin/pdflatex (file ./figs/disp_line_mom2.png): large inter
+laced PNG might cause out of memory (use non-interlaced PNG to fix this)
+>]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 260.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 260.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 260.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 260.
+ [41pdfTeX warning (ext4): destination with the same identifier (name{figure.11
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.260 \end{document}
+                     <./figs/press_const_line_source2.png
+
+pdfTeX warning: /usr/bin/pdflatex (file ./figs/press_const_line_source2.png): l
+arge interlaced PNG might cause out of memory (use non-interlaced PNG to fix th
+is)
+> <./figs/disp_const_line_source2.png
+
+pdfTeX warning: /usr/bin/pdflatex (file ./figs/disp_const_line_source2.png): la
+rge interlaced PNG might cause out of memory (use non-interlaced PNG to fix thi
+s)
+>]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 260.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 260.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 260.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 260.
+ [42pdfTeX warning (ext4): destination with the same identifier (name{figure.12
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.260 \end{document}
+                     <./figs/terzaghi.png>]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 260.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 260.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 260.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 260.
+ [43pdfTeX warning (ext4): destination with the same identifier (name{figure.13
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.260 \end{document}
+                     <./figs/pp0Ter.png
+
+pdfTeX warning: /usr/bin/pdflatex (file ./figs/pp0Ter.png): large interlaced PN
+G might cause out of memory (use non-interlaced PNG to fix this)
+> <./figs/uu0Ter.png
+
+pdfTeX warning: /usr/bin/pdflatex (file ./figs/uu0Ter.png): large interlaced PN
+G might cause out of memory (use non-interlaced PNG to fix this)
+>]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 260.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 260.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 260.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 260.
+ [44pdfTeX warning (ext4): destination with the same identifier (name{figure.14
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.260 \end{document}
+                     <./figs/pp1Ter.png
+
+pdfTeX warning: /usr/bin/pdflatex (file ./figs/pp1Ter.png): large interlaced PN
+G might cause out of memory (use non-interlaced PNG to fix this)
+> <./figs/uu1Ter.png
+
+pdfTeX warning: /usr/bin/pdflatex (file ./figs/uu1Ter.png): large interlaced PN
+G might cause out of memory (use non-interlaced PNG to fix this)
+>]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 260.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 260.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 260.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 260.
+ [45pdfTeX warning (ext4): destination with the same identifier (name{figure.15
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.260 \end{document}
+                    pdfTeX warning (ext4): destination with the same identifier
+ (name{figure.16}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.260 \end{document}
+                     <./figs/mandel.png> <./figs/pp0M.png
+
+pdfTeX warning: /usr/bin/pdflatex (file ./figs/pp0M.png): large interlaced PNG 
+might cause out of memory (use non-interlaced PNG to fix this)
+>]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 260.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 260.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 260.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 260.
+ [46pdfTeX warning (ext4): destination with the same identifier (name{figure.17
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.260 \end{document}
+                    pdfTeX warning (ext4): destination with the same identifier
+ (name{figure.18}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.260 \end{document}
+                     <./figs/uux0M.png
+
+pdfTeX warning: /usr/bin/pdflatex (file ./figs/uux0M.png): large interlaced PNG
+ might cause out of memory (use non-interlaced PNG to fix this)
+> <./figs/uuz0M.png
+
+pdfTeX warning: /usr/bin/pdflatex (file ./figs/uuz0M.png): large interlaced PNG
+ might cause out of memory (use non-interlaced PNG to fix this)
+>]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 260.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 260.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 260.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 260.
+ [47pdfTeX warning (ext4): destination with the same identifier (name{figure.19
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.260 \end{document}
+                    pdfTeX warning (ext4): destination with the same identifier
+ (name{figure.20}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.260 \end{document}
+                     <./figs/prM.png> <./figs/2wells.png>]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 260.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 260.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 260.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 260.
+ [48pdfTeX warning (ext4): destination with the same identifier (name{figure.21
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.260 \end{document}
+                     <./figs/iso_p.png
+
+pdfTeX warning: /usr/bin/pdflatex (file ./figs/iso_p.png): large interlaced PNG
+ might cause out of memory (use non-interlaced PNG to fix this)
+> <./figs/str.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 260.
+ (./preprint_poro_Trimonova.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 260.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 260.
+Package rerunfilecheck Info: File `preprint_poro_Trimonova.out' has not changed
+.
+(rerunfilecheck)             Checksum: 8D3816B5B589CB8F7A39E19EB89D520A;7907.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 260.
+ ) 
+Here is how much of TeX's memory you used:
+ 12184 strings out of 494440
+ 166079 string characters out of 6173199
+ 264883 words of memory out of 5000000
+ 15054 multiletter control sequences out of 15000+600000
+ 15462 words of font info for 41 fonts, out of 8000000 for 9000
+ 430 hyphenation exceptions out of 8191
+ 34i,14n,32p,2747b,515s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/font
+s/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></us
+r/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/
+type1/public/cm-super/sfbx1728.pfb></usr/share/texmf/fonts/type1/public/cm-supe
+r/sfbx2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0700.pfb></usr
+/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/t
+ype1/public/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm-super
+/sfrm1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm2074.pfb></usr/
+share/texmf/fonts/type1/public/cm-super/sfti1440.pfb>
+Output written on preprint_poro_Trimonova.pdf (48 pages, 7632539 bytes).
+PDF statistics:
+ 708 PDF objects out of 1000 (max. 8388607)
+ 591 compressed objects within 6 object streams
+ 172 named destinations out of 1000 (max. 500000)
+ 401 words of extra memory for PDF output out of 10000 (max. 10000000)
+
